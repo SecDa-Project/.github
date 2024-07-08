@@ -7,4 +7,3 @@
 ## Workspaces
 * Task board: https://trello.com/b/48eC4xW9'
 * Cloud service: https://cloud.digitalocean.com/projects/7a706e01-b763-4abb-83d4-7ae775c8e750/resources?i=ddf3d8
-* Airflow webserver: http://188.166.221.204:8080
